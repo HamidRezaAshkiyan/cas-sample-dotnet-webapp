@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>c:\sampleCAS</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="App_Data/UserRoles.xml">
+      <publishTime>09/23/2014 03:23:39</publishTime>
+    </File>
+    <File Include="bin/CASSampleWebApplication.dll">
+      <publishTime>09/23/2014 03:30:09</publishTime>
+    </File>
+    <File Include="bin/CASSampleWebApplication.pdb">
+      <publishTime>09/23/2014 03:30:09</publishTime>
+    </File>
+    <File Include="bin/DotNetCasClient.dll">
+      <publishTime>12/26/2012 07:34:28</publishTime>
+    </File>
+    <File Include="bin/DotNetCasClient.pdb">
+      <publishTime>12/26/2012 07:34:28</publishTime>
+    </File>
+    <File Include="bin/log4net.dll">
+      <publishTime>12/19/2012 08:53:46</publishTime>
+    </File>
+    <File Include="bin/log4net.xml">
+      <publishTime>12/19/2012 08:53:46</publishTime>
+    </File>
+    <File Include="CookiesRequired.aspx">
+      <publishTime>09/23/2014 01:49:37</publishTime>
+    </File>
+    <File Include="css/styles.css">
+      <publishTime>09/23/2014 02:07:29</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>09/23/2014 02:31:05</publishTime>
+    </File>
+    <File Include="images/body.jpg">
+      <publishTime>09/23/2014 02:06:05</publishTime>
+    </File>
+    <File Include="images/cas.png">
+      <publishTime>09/23/2014 02:06:05</publishTime>
+    </File>
+    <File Include="images/cas_logo.png">
+      <publishTime>09/23/2014 02:06:05</publishTime>
+    </File>
+    <File Include="images/header.jpg">
+      <publishTime>09/23/2014 02:06:05</publishTime>
+    </File>
+    <File Include="images/inner_container.jpg">
+      <publishTime>09/23/2014 02:06:05</publishTime>
+    </File>
+    <File Include="images/nav_link_active.jpg">
+      <publishTime>09/23/2014 02:06:05</publishTime>
+    </File>
+    <File Include="images/quote.gif">
+      <publishTime>09/23/2014 02:06:05</publishTime>
+    </File>
+    <File Include="images/td.jpg">
+      <publishTime>09/23/2014 02:06:05</publishTime>
+    </File>
+    <File Include="images/uni_logo.png">
+      <publishTime>09/23/2014 02:06:05</publishTime>
+    </File>
+    <File Include="log4net.dll">
+      <publishTime>12/19/2012 08:53:46</publishTime>
+    </File>
+    <File Include="log4net.xml">
+      <publishTime>12/19/2012 08:53:46</publishTime>
+    </File>
+    <File Include="NotAuthorized.aspx">
+      <publishTime>09/23/2014 02:11:52</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>09/23/2014 03:01:09</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>09/23/2014 03:33:38</publishTime>
+    </File>
+    <File Include="Public/Default.aspx">
+      <publishTime>09/23/2014 02:30:45</publishTime>
+    </File>
+    <File Include="Public/Web.config">
+      <publishTime>09/23/2014 01:49:37</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>09/23/2014 03:33:29</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
