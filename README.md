@@ -7,7 +7,7 @@ Example CASified .NET Web Application
 
 * Internet Information Services: Make sure all "Application Development Features" are installed.
 ![](http://i.imgur.com/5ek9gdQ.png)
-* .NET Framework v4
+* .NET Framework v4.5
 * Preferably, Visual Studio 2013 Professional Edition
 * Forms-based Authentication must be enabled
 
