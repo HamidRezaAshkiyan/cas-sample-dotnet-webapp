@@ -1,6 +1,4 @@
-﻿
-
-namespace CASGrouperWebServicesWebApplication
+﻿namespace CASGrouperWebServicesWebApplication
 {
     using System;
     using System.Web.UI;
@@ -9,7 +7,7 @@ namespace CASGrouperWebServicesWebApplication
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            log4net.Config.XmlConfigurator.Configure();  
+            log4net.Config.XmlConfigurator.Configure();
         }
     }
 }
